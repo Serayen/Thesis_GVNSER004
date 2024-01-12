@@ -4,7 +4,9 @@ State-Space models for plant diversity in the Karoo
 Notes for Code:
 -In exploratory analyses there is code to set up data into counts of species over time. 
 
--Must Run the code to get data in species counts then save data to be used in Species modeling.
+-Can run the code in exploratory analyses to get data in species counts then save data to be used in Species modeling.
+
+-R objects to call data for each species is contained within Data. 
 
 -Each species modeled in its own R code. Renosterveld species have a univariate interaction model, denoted by _thesium.
 
